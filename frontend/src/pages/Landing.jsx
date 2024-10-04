@@ -11,7 +11,7 @@ const Landing = () => {
        </div>
        <div className='flex justify-between px-12 items-center text-white'>
          <img className="size-80 ml-40" src={codingpic}></img>
-         <div className='text-white font-bold text-2xl'>
+         <div className='text-whit  font-bold text-3xl'>
            <div>Sign In</div>
            <div>Log In</div>
          </div>
